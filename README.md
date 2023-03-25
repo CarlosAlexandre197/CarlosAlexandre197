@@ -15,7 +15,7 @@
     Vem codar comigo, tua contribuição será muito bem vinda! 😉️
   </p> 
 </div>
-
+  
 <div align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=CarlosAlexandre197&show_icons=true&theme=highcontrast" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAlexandre197&hide=html&layout=compact&theme=highcontrast" />
@@ -33,6 +33,20 @@
 
 
   ![Snake animation](https://github.com/CarlosAlexandre197/CarlosAlexandre197/blob/main/snake.svg)
+  <br>
+<h2>Social Networks</h2>
+
+[![LinkedIn][1.2]][1] [![Instagram][2.2]][2]
+
+[1.2]: https://s4.uupload.ir/files/linkedin_amwn.png
+[2.2]: https://s4.uupload.ir/files/instagram_6djz.png
+
+
+[1]: https://www.linkedin.com/in/carlos-alexandre-a2b6ab235/
+[2]: https://www.instagram.com/alexandrec007/
+
+<br>
+<br>
  
   </div><br>
   

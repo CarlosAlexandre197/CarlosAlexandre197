@@ -36,17 +36,13 @@
   <br>
 <h2>Social Networks</h2>
 
-[![LinkedIn][1.2]][1] [![Instagram][2.2]][2]
+_&nbsp;_ _![linkedin](https://user-images.githubusercontent.com/86389730/147504623-77653d58-179b-4a63-841c-5c22c126c504.png)_ _&nbsp;_
+_&nbsp;_ _![gmail](https://user-images.githubusercontent.com/86389730/147504603-a258b025-ec90-4b8f-a67e-b4e21e9b00b5.png)_ _&nbsp;_
+_&nbsp;_ _![instagram](https://user-images.githubusercontent.com/86389730/147504657-02f8d9f7-d624-45c4-bb87-50110a38108f.png)_ _&nbsp;_
 
-[1.2]: https://s4.uupload.ir/files/linkedin_amwn.png
-[2.2]: https://s4.uupload.ir/files/instagram_6djz.png
+_&nbsp;_  _[](https://www.linkedin.com/in/carlos-alexandre-a2b6ab235/)_  _&nbsp;_
+_&nbsp;_  _[](https://mail.google.com/mail/u/0/?tab=km#inbox)_  _&nbsp;_
+_&nbsp;_  _[](https://www.instagram.com/alexandrec007/)_  _&nbsp;_
 
-
-[1]: https://www.linkedin.com/in/carlos-alexandre-a2b6ab235/
-[2]: https://www.instagram.com/alexandrec007/
-
-<br>
-<br>
- 
-  </div><br>
+</div><br>
   

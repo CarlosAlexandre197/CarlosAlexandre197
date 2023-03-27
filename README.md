@@ -15,10 +15,10 @@
     Vem codar comigo, tua contribuição será muito bem vinda! 😉️
   </p> 
 </div>
-  
-<div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=CarlosAlexandre197&show_icons=true&theme=highcontrast" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAlexandre197&hide=html&layout=compact&theme=highcontrast" />
+ 
+![Carlos Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosAlexandre197&show_icons=true&theme=merko&hide_border=true&count_private=true&card_width=494px)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CarlosAlexandre197&theme=merko&hide_border=true&border_radius=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAlexandre197&layout=compact&show_icons=true&theme=merko&hide_border=true&card_width=494px)
  
  </details>
  
@@ -34,15 +34,22 @@
 
   ![Snake animation](https://github.com/CarlosAlexandre197/CarlosAlexandre197/blob/main/snake.svg)
   <br>
-<h2>Social Networks</h2>
+<br>
 
-_&nbsp;_ _![linkedin](https://user-images.githubusercontent.com/86389730/147504623-77653d58-179b-4a63-841c-5c22c126c504.png)_ _&nbsp;_
-_&nbsp;_ _![gmail](https://user-images.githubusercontent.com/86389730/147504603-a258b025-ec90-4b8f-a67e-b4e21e9b00b5.png)_ _&nbsp;_
-_&nbsp;_ _![instagram](https://user-images.githubusercontent.com/86389730/147504657-02f8d9f7-d624-45c4-bb87-50110a38108f.png)_ _&nbsp;_
 
-_&nbsp;_  _[](https://www.linkedin.com/in/carlos-alexandre-a2b6ab235/)_  _&nbsp;_
-_&nbsp;_  _[](https://mail.google.com/mail/u/0/?tab=km#inbox)_  _&nbsp;_
-_&nbsp;_  _[](https://www.instagram.com/alexandrec007/)_  _&nbsp;_
+[![LinkedIn][1.2]][1] [![Instagram][2.2]][2]
+
+[1.2]: https://s4.uupload.ir/files/linkedin_amwn.png
+[2.2]: https://s4.uupload.ir/files/instagram_6djz.png
+
+
+[1]: https://www.linkedin.com/in/carlos-alexandre-a2b6ab235/
+[2]: https://www.instagram.com/alexandrec007/
+
+
+
+<br>
+<br>
 
 </div><br>
   

@@ -36,5 +36,7 @@
   <br>
 <br>
 
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CarlosAlexandre197&theme=gotham)
+
 </div><br>
   

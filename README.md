@@ -36,20 +36,5 @@
   <br>
 <br>
 
-
-[![LinkedIn][1.2]][1] [![Instagram][2.2]][2]
-
-[1.2]: https://s4.uupload.ir/files/linkedin_amwn.png
-[2.2]: https://s4.uupload.ir/files/instagram_6djz.png
-
-
-[1]: https://www.linkedin.com/in/carlos-alexandre-a2b6ab235/
-[2]: https://www.instagram.com/alexandrec007/
-
-
-
-<br>
-<br>
-
 </div><br>
   

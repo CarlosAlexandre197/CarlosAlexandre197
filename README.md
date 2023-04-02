@@ -26,7 +26,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,vscode,django,sqlite,mysql,git,github,html" />
+    <img src="https://skillicons.dev/icons?i=discord,vscode,sqlite,mysql,git,github,heroku,django,postman,python,html,css,javascript" />
   </a>
 </p>
 <img align='right' height='160' style="margin-right:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>

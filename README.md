@@ -1,4 +1,5 @@
-                                                 Desenvolvedor Back End | Python | SQL | HTML | CSS | JavaScript | Django | API. 👋
+                                                 Desenvolvedor Back End | Python. 👋
+                                   conhecimentos em:  SQL | HTML | CSS | JavaScript | Django | API
 
 <div align="center" >
  

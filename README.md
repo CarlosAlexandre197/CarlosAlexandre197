@@ -28,10 +28,10 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=discord,powershell,vscode,git,github,sqlite,mysql,heroku,django,postman,python,html,css,javascript" />
+    
   </a>
 </p>
 <img align='right' height='160' style="margin-right:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
-
 
   ![Snake animation](https://github.com/CarlosAlexandre197/CarlosAlexandre197/blob/main/snake.svg)
   <br>
@@ -40,5 +40,8 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CarlosAlexandre197&bg_color=0d0c0d&color=6acb1a&line=1cb5e9&point=f5f5f5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div><br>
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{CarlosAlexandre197}/count.svg" /></p>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>

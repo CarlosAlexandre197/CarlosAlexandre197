@@ -33,9 +33,10 @@
 </p>
 <img align='right' height='160' style="margin-right:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
 
-  ![Snake animation](https://github.com/CarlosAlexandre197/CarlosAlexandre197/blob/main/snake.svg)
-  <br>
-<br>
+<p align="center">
+  <img  src="github-contribution-grid-snake.svg"
+    alt="example" />
+</p></td></tr></table>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CarlosAlexandre197&bg_color=0d0c0d&color=6acb1a&line=1cb5e9&point=f5f5f5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 

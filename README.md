@@ -4,6 +4,8 @@
 <div align="center" >
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ADFF2F&height=120&section=header"/>
+<img src="https://github.com/iturbides/iturbides/blob/c4ec7b334259d1ecf924aa5a8c551db3ad6ac081/octocat.png">
+
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Carlos+Alexandre;CarlosAlexandre197;Desenvolvedor+BackEnd;Python)](https://git.io/typing-svg)
  

@@ -16,10 +16,11 @@
     Vem codar comigo, tua contribuição será muito bem vinda! 😉️
   </p> 
 </div>
- 
-![Carlos Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosAlexandre197&show_icons=true&theme=merko&hide_border=true&count_private=true&card_width=494px)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CarlosAlexandre197&theme=merko&hide_border=true&border_radius=5)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAlexandre197&layout=compact&show_icons=true&theme=merko&hide_border=true&card_width=494px)
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosAlexandre197&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosAlexandre197&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CarlosAlexandre197&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+</div>
  
  </details>
  

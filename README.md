@@ -22,7 +22,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CarlosAlexandre197&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;"> 
     
 </div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=als-v&hide=smalltalk&theme=dark&layout=compact&langs_count=6" /> 
   
  </details>
  

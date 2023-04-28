@@ -10,7 +10,7 @@
 <div>
   
   <h1 align="center">
-    Oi Tudo bem? Sejam Bem Vindos! 😃️
+    Hey how´s it going? Be welcome! 😃️
   </h1>
    <p align="center">
     Vem codar comigo, tua contribuição será muito bem vinda! 😉️

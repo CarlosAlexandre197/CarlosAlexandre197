@@ -13,7 +13,7 @@
     Hey how´s it going? Be welcome! 😃️
   </h1>
    <p align="center">
-    Vem codar comigo, tua contribuição será muito bem vinda! 😉️
+    Come codar with me, your contribution will be very welcome! 😉️
   </p> 
 </div>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">

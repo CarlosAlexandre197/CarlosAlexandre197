@@ -40,9 +40,10 @@
     alt="example" />
 </p></td></tr></table>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CarlosAlexandre197&bg_color=0d0c0d&color=6acb1a&line=1cb5e9&point=f5f5f5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 </div><br>
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{CarlosAlexandre197}/count.svg" /></p>

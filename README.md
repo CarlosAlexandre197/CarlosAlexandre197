@@ -1,5 +1,5 @@
                                                  Developer Back End | Python 👋
-                                   knowledge in:  SQL | HTML | CSS | JavaScript | Django | API
+                                         SQL | HTML | CSS | JavaScript | Django | API
 
 <div align="center" >
  

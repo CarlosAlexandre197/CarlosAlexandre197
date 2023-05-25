@@ -1,4 +1,4 @@
-                                                 Developer Back End | Python 👋
+                                                 Back End Python Developer 👋
                                          SQL | HTML | CSS | JavaScript | Django | API
 
 <div align="center" >

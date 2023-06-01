@@ -27,9 +27,10 @@
  
   </a>
 </p>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,powershell,vscode,git,github,sqlite,mysql,postgresql,heroku,django,postman,python,html,css,javascript,react" />
+    <img src="https://skillicons.dev/icons?i=discord,powershell,vscode,git,github,sqlite,mysql,postgresql,heroku,django,postman,python,html,css,javascript" />
     
   </a>
 </p>

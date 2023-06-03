@@ -1,5 +1,5 @@
                                                  Full Stack Python Developer 👋
-                                         SQL | HTML | CSS | JavaScript | Django | Power BI
+                                         HTML | CSS | JavaScript | Django | SQL | Power BI
 
 <div align="center" >
  

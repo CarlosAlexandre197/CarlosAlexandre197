@@ -1,5 +1,5 @@
-                                                 Back End Python Developer 👋
-                                         SQL | HTML | CSS | JavaScript | Django | API
+                                                 Full Stack Python Developer 👋
+                                         SQL | HTML | CSS | JavaScript | Django | Power BI
 
 <div align="center" >
  

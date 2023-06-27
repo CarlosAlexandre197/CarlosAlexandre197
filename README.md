@@ -1,4 +1,4 @@
-                                                 Full Stack Python Developer 👋
+                                                         Python Developer 👋
                                          HTML | CSS | JavaScript | Django | SQL | Power BI
 
 <div align="center" >

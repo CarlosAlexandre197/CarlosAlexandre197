@@ -1,5 +1,5 @@
-                                              Python Developer / Analista de Dados 👋
-                                         HTML | CSS | JavaScript | Django | SQL | Power BI
+                                                            Python Developer👋
+                                                  HTML | CSS | JavaScript | Django | SQL
 
 <div align="center" >
  

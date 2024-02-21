@@ -1,5 +1,5 @@
                                                             Python Developer👋
-                                                  HTML | CSS | JavaScript | Django | SQL | VBA
+                                               HTML | CSS | JavaScript | Django | SQL | VBA
 
 <div align="center" >
  

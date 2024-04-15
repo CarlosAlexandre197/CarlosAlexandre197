@@ -1,4 +1,4 @@
-                                                            Python Developer👋
+                                                                             Python Developer👋
                                               HTML | CSS | JavaScript | Django | SQL | VBA | Tecnólogo em Redes de Computadores 
 
 <div align="center" >

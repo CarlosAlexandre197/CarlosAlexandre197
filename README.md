@@ -1,5 +1,5 @@
-                                                         Python Developer👋
-                             HTML | CSS | JavaScript | Django | SQL | VBA | Tecnólogo em Redes de Computadores 
+                                                          Python Developer👋
+                           HTML | CSS | JavaScript | Django | SQL | VBA | Tecnólogo em Redes de Computadores 
 
 <div align="center" >
  
